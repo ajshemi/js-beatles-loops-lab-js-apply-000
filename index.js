@@ -18,3 +18,4 @@ var johnLennonFacts=function(array1){
   }
   return emptyArray
 }
+
