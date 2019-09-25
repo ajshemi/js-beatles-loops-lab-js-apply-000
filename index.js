@@ -19,3 +19,10 @@ var johnLennonFacts=function(array1){
   return emptyArray
 }
 
+var iLoveTheBeatles=function(num){
+  var emptyArray=[]
+  var i=0
+  while(i<num){
+    emptyArray.push('I love the Beatles!')
+  }
+}
