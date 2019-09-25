@@ -24,7 +24,6 @@ var iLoveTheBeatles=function(num){
   while(num<15){
     emptyArray.push('I love the Beatles!')
     num++
-    
   }
   return emptyArray
 }
