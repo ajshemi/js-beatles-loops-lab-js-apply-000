@@ -16,4 +16,5 @@ var johnLennonFacts=function(array1){
     emptyArray.push(str)
     i++
   }
+  return emptyArray
 }
