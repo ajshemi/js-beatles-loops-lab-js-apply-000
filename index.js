@@ -7,3 +7,7 @@ var theBeatlesPlay=function(array1,array2){
   }
   return emptyArray
 }
+
+var johnLennonFacts=function(array1){
+  
+}
