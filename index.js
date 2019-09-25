@@ -9,5 +9,11 @@ var theBeatlesPlay=function(array1,array2){
 }
 
 var johnLennonFacts=function(array1){
-  
+  var i=0
+  var emptyArray=[]
+  while(i<array1.length){
+    var str=`${array1[i]}!!!`
+    emptyArray.push(str)
+    i++
+  }
 }
